@@ -1,0 +1,35 @@
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+
+*.sublime*
+
+psd
+thumb
+sketch
+
+### WebStorm ###
+
+# CMake
+cmake-build-*/
+
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+
+#.idea folder
+.idea
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+
+#build folder
+build/
